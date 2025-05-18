@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "konkurencjapln",
+  "private_key_id": "36971141c4543cc4c311cac5cdde0419968d6362",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMNYIgTtltR6th\nv73NV42JbuWipQsyEMBb2snrLChbTjJTKCefWQ3GhfMsABHfspg4odFClnK6ZE5B\nRZp+LV11WfAumbpr4URCizb5y3Bu8bFLdfPMiLaLM37jRwdQl0r8I23cUo3Ioxwz\ncuAmnxy5mZMcrdnZKWjF+ocPEjuUkd7FsJAVSEGc2Mnrf9VJeqCwOBATZ03Laedt\nqr155/iOJsdloMH/L5ADS2UdN8TuM+7s9tRu4hYwhM0T4MBoLsGy0CHjFhV9cw/G\nTWzgPjdagFXNdHbZAUPlEmqbDAiQ86WwDVyzm1OQXfgI6wKnDiamIkaKbOk1j8Vu\nqdr3zDWbAgMBAAECggEAU5VZMDEl5IlPuCA7p1c9OvH1svc72F+r5EzulcAKuqiM\nh6XpZdsU/Ntp12ol5rpafN+a39blma4hq6y6Gggmdzh7Sw+oEqzu/A+wTlj7KaXq\nrBjY07Bnix1mQ8+YSl/KlN5JgsMVfnhovBQ6dARvRPZ7lOMBxlWhKVusOTp8wYei\nCD4W8ARN7pO/taAoR2t8pX486P8mtK4l4EOBzNWsL9TD47uZjmoBlDZFoi6VxX5Z\nygwCFSoBl4ARHGCPimpLveICXwFHzKqxRG4i6bT48V+wCxkUlSMEVgTc3AOuBcOO\nUHC1jByC6TcD6K/tAiOMtZ1S78rrpRGES2XWkp3/PQKBgQDnc55hQRlmoh5K1Ncc\nSwibkjRQcft1/zF+iOXzvrEZ+Vv0NJ23rVoQbsubE1vaPywjB771YFx1hplyq1Hq\nsNcy0MWCjJvXfqgRvTA5GOZMAeGcVGKAk8e6WMJsnxfD0g3odaSs9WvJTZN6Y4ee\nVuYgKnVMvn9qwNn8t+ttHRu5XwKBgQDh3jKBTYk6amoeRBedSdKCUZzdmYc3cv/a\ntd5DiWSGgkTO3Q2LgpTnNMxZSEa83BpyUijOPoK8/SRddA5mJKet4Owpb+UsoaEV\nJhlAs7zE29A/IIsYmeOblcI2/5IfaEBIUy3MYUPEcNbR4UQNyUXE5gTMqgkIScgl\npj8jVFIhRQKBgEz5ot7ta6k6maCBkNkUC1TSFxv6DIt9x9Qxa2jZLsVYrUBWj22a\n9a0pbAWzNoUrJV6xIM0ysw1TKo18dM386lU4Ibf9U4cj1Hmx1evnYBA/P+1iEzB3\n9aEADAlcD+dMYNvC5HWxWZuldTrrBxueAwMHm+NeJ7o1UUo/UMkFOUc5AoGAKghT\nlcR8GSbcgK1jR54JUr8lVgfQJf18p5LYvfC/iFiNvYFdl+zBERW+QY81userFEM9\n3MO9SLZDIjEKzO9dVPpaeIueNmQNugXRBT1tj6ToaBcCS523waho8Bs3cijQbaUt\nDK+9EL1+/KfTJk2icjXsBrpN3AD/AiKh9U0ny5ECgYBMw3VJfZkPZ+AK7ny1OwLG\nlc0WzoVkh75UVQbnOlELU29vWKDpdVUFItia72/7d9o2KfSFOJiUlqZTRILhq/Sh\n9v9NQeu/2JMBzo2RNT4synSCymsCSwUor1XL7MYtkYdqlApjiQzIK8aumB5DZ4HU\nxqpFJjf8a7DrgYHLOzkkbg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "por-cen-konkurencji-pln@konkurencjapln.iam.gserviceaccount.com",
+  "client_id": "113945953555124289225",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/por-cen-konkurencji-pln%40konkurencjapln.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

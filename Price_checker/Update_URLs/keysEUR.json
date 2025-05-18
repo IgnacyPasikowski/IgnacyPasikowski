@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aerial-tide-384414",
+  "private_key_id": "c6fdf807577741766b08b4f05949b6b4b0c51a3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaExC0YyW5JJAY\nTZvK014z2e6bwMjRRgDyWu4lQXUzBhflmT9hnxbgrX7o9DivXC0feBvsFu4wng3U\nIVXQNh9J+BzcP1O18UeweOf9HR8TM/Tvbp72po4g7FrW1NF8DZWOBeEoEBDwU8Mm\nOIAeEsu3xQ3tD/jgEQSrC11qW1ZLvJaO457cHH5cB90DlLKKnE/nm3ERZ94R4wx7\nh9EhrxokGX8/EsYv8qZZ1njdxzj4qpz7CFCHEE4i7JzJKFbTyHWAbHZoN7VpFEuU\nqo6gS3VfzUMV6zYOD9znoR8jKRr3o0O2UlgHASIcCgkicgsCaDD1prhu8y2EejQ8\nIFza81PpAgMBAAECggEAEh3PxwYpd12fO9xUR0MXPo2PiuzeMA1FKzoZ6nOJ7lf3\nE14zn6zvKbf8xjOBPs1d2OdskRQZKcpL4feReYwDndT4v8UKeMhIH633yUFVWBKx\n6D1fn6zx5VklTUF06FtIjIyQbv+Enl2bArF+DwsyvQcEni1UnDQkEmChuVHIEduK\nDmm8CRNdbN4zjIVCmhOncAkz0ELFezCbv/GdlHH8Gltd8jClWH7JjM53+3JLrWMq\ngFLjuDN5391p52nYMwmw72mZ31EuBZJ6oz7QJ01RDOv+bWZOC4H3E99u6lqXuuK0\nToOujxJHAAmyFuob6Tm2SNFfXyWvfClfk73Bho8JiQKBgQDYt4b/+IvU4sGaO6P/\nkxNuMkaSa2kBVwDtRNuc6yEHSKqdsZjdHlsFZzQEljS0euU/7kVawBfBIeykP24Z\npC/YzJYxrROaMcIo/UWzq+Hs6y7AeGRdpyztauiGzuaIXDWKui5mcjYQa8G8BxXv\n8hxeee+n8Gqm6In/nYgA6uei3wKBgQC2ALIMwbMg7aBXjaTaDoPZJcvOME7M2gqe\nw2rXU1a1oMheNkj1UpFhtXDtzeiFsqFsFSdJIBiSvWLHAuzyaN9fmxpUHXCaS02c\nMFxv6cyWAHHABxQNbbrJBdb/yTa+RtV3CMPETzNyWdGQym1aZ5z2visQviY8zCWA\nIHHH5SFqNwKBgQDAjC9R9g6nEuFYm2zWgmJdIiY5qV0eZ6LXLLrC7NXnltSgT062\nB2ZvooZBHQOu5xIQfy73tnxkiDOsqv6zoYExanR3poMoGNWdfYoUXL7atQpQz6a8\n3u+38aivPdztgp+/pjPbqdYHOPZkjRccnUw/VK9t0tmveiRCDEDuL8emmQKBgG2x\nT56Go/qlnW0HbqMJ+odG02XrEaM/iwUTDHLIxMrlI748g45v/DVikLSS1KC3/7hP\nq4TUNltCj6UYa0zSzkYmCiFGORaVaipHr36379k8XVJ6MajCSMBdp640TK0zrfZ3\nLt5DSeOSpM7aYjwJlL3V8ci+gfdEpxlo9Iqg25nTAoGBAKednGPeSYtKD6bLk3Vt\nWESDFbkBAnNNi6Wvf8vvFi5AZneXkbHx6NKFLHkSczoCHSHF9+OsnqvZAVZTSDcx\nY02QQSuyCdVqbGTAXArboa73+UJyZ/eyL63up8r7DHJ9GI4AD/srtYag7bNR6Xot\n8xYwkSFpdywO2pI3Xkf44KEp\n-----END PRIVATE KEY-----\n",
+  "client_email": "konkurencja@aerial-tide-384414.iam.gserviceaccount.com",
+  "client_id": "106998946842044489142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/konkurencja%40aerial-tide-384414.iam.gserviceaccount.com"
+}
